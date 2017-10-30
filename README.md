@@ -14,9 +14,6 @@ There are many factors, from location to past records to license type, which can
 Using data from the City of Chicago, the goal of this competition is to predict the likelihood of an establishment failing a food inspection.
 
 
-## Installation
-
-
 ## API Reference
 
 [Jupyter](http://jupyter.org/)
